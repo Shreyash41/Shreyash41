@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1500" height="300" src="https://user-images.githubusercontent.com/62322907/109427559-f5687700-7a18-11eb-8d54-a2340003cb53.png">
+  <img width="1500" height="300" src="https://user-images.githubusercontent.com/62322907/109428673-0ebff200-7a1e-11eb-820d-25cad5ee6db8.gif">
 </p>
 
 ### Hello, I'm Shreyash 👋
