@@ -22,4 +22,4 @@
 <a href="https://www.quora.com/profile/Shreyash-Asati" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62322907/109429046-dde0bc80-7a1f-11eb-857a-15d272742974.png" alt="ShreyashAsati" height="35" width="40" /></a>
 </p>
 
-<h1 align="center"> Made With 💖 by Shreyash</h1>
+<h2 align="center"> Made With 💖 </h2>
