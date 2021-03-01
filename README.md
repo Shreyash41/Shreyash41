@@ -2,7 +2,7 @@
   <img width="1500" height="300" src="https://user-images.githubusercontent.com/62322907/109428673-0ebff200-7a1e-11eb-820d-25cad5ee6db8.gif">
 </p>
 
-###  <h1 align="center"> Hello, I'm Shreyash 👋</h1>
+<h1 align="center"> Hello, I'm Shreyash <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 - 🔭 I’m currently working as Student.
 - 🌱 I’m currently learning Java and Kotlin.
