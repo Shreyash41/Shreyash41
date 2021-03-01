@@ -13,12 +13,20 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Keep it Clean and Simple.
 
+#### Skills and Technologies :
+<p align="left">
+<img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
+<img src="https://forthebadge.com/images/badges/made-with-c.svg">
+<img src="https://forthebadge.com/images/badges/made-with-java.svg">
+<img src="http://ForTheBadge.com/images/badges/uses-git.svg">
+<img src="https://forthebadge.com/images/badges/open-source.svg">
+</p>
+
 <img src = "https://github-readme-stats.vercel.app/api?username=shreyash41">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash41&layout=compact">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shreyash-asati-28052a168/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62322907/109429215-9870bf00-7a20-11eb-8687-e7a8e84af112.png" alt="ShreyashAsati" height="35" width="40" /></a>
-<a href="https://www.quora.com/profile/Shreyash-Asati" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62322907/109429046-dde0bc80-7a1f-11eb-857a-15d272742974.png" alt="ShreyashAsati" height="35" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreyash-asati-28052a168/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/14073916/alien-hunter" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
-
