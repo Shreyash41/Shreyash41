@@ -26,6 +26,7 @@
 <img src="https://forthebadge.com/images/badges/open-source.svg">
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api/?username=Shreyash41" alt="Shreyash41" /></p>
 <img src = "https://github-readme-stats.vercel.app/api?username=shreyash41">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash41&layout=compact">
 
