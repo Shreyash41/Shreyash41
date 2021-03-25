@@ -19,11 +19,12 @@
 
 #### Skills and Technologies :
 <p align="left">
-<img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg">
-<img src="https://forthebadge.com/images/badges/made-with-c.svg">
-<img src="https://forthebadge.com/images/badges/made-with-java.svg">
-<img src="http://ForTheBadge.com/images/badges/uses-git.svg">
-<img src="https://forthebadge.com/images/badges/open-source.svg">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api/?username=Shreyash41" alt="Shreyash41" /></p>
