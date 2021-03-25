@@ -2,7 +2,7 @@
   <img width="1500" height="300" src="https://user-images.githubusercontent.com/62322907/109428673-0ebff200-7a1e-11eb-820d-25cad5ee6db8.gif">
 </p>
 
-<h1 align="center"> Hello, I'm Shreyash <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center"> Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , I'm Shreyash <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 <p align="right">
 <img width = "400" height = "400" src = "https://user-images.githubusercontent.com/62322907/109534565-79863180-7ae1-11eb-97a9-3c7b68163b14.gif" align="right" hspace="0" vspace="0">
