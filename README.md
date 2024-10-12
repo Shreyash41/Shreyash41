@@ -1,7 +1,7 @@
 <h1 align="center"> Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , I'm Shreyash <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
 <p align="right">
-<img width = "400" height = "400" src = "https://user-images.githubusercontent.com/62322907/109534565-79863180-7ae1-11eb-97a9-3c7b68163b14.gif" align="right" hspace="0" vspace="0">
+<img width = "400" height = "400" src = "https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" align="right" hspace="0" vspace="0">
 </p>
 
 - 🔭 I’m currently working as Senior Software Engineer.
